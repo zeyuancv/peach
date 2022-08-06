@@ -15,5 +15,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "nikic/fast-route": "2.0.x-dev"
+    }
 }
