@@ -1,0 +1,19 @@
+{
+    "name": "zeyuan/peach",
+    "description": "this is a mvc framework module",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zeyuan\\Peach\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuancv",
+            "email": "11424931+zeyuancv@user.noreply.gitee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
